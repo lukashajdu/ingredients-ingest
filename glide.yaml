@@ -1,0 +1,4 @@
+package: github.com/lukashajdu/ingredients-ingest
+import:
+- package: github.com/mattbaird/elastigo
+- package: github.com/araddon/gou

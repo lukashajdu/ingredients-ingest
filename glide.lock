@@ -1,0 +1,22 @@
+hash: e726c6acb174ba63d27aae436a995b98a2686fcf1983759069b5547df36e6f38
+updated: 2017-01-25T16:47:12.312985694Z
+imports:
+- name: github.com/araddon/gou
+  version: 0ab1e8f997e35d27da012072dc531fcc0204da5a
+- name: github.com/bitly/go-hostpool
+  version: d0e59c22a56e8dadfed24f74f452cea5a52722d2
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  subpackages:
+  - spew
+- name: github.com/lytics/logrus
+  version: 59cd2e4a569b4494d9196bef82f0784e467adac9
+- name: github.com/mattbaird/elastigo
+  version: 34c4c4d8425cbdcbc8e257943a2044d5e9f7dab5
+  subpackages:
+  - lib
+- name: golang.org/x/sys
+  version: 8f0908ab3b2457e2e15403d3697c9ef5cb4b57a9
+  subpackages:
+  - unix
+testImports: []
